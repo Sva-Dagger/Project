@@ -201,7 +201,7 @@ class ATM:
             for widget in self.window.winfo_children():
                 widget.destroy()
             amount = 0
-            self.withdrawal_entry = Entry(textvariable= amount,width=15, font=("Ariel", 30))
+            self.withdrawal_entry = Entry(width=15, font=("Ariel", 30))
             self.withdrawal_entry.grid(column=4, row=2, pady=20, padx=20)
 
             buttons = [

@@ -1,0 +1,6 @@
+
+2024-11-04 17:29:26 | Deposit amount 1000.0 | Your Balance 1000.0
+2024-11-04 17:30:12 | Deposit amount 1000.0 | Your Balance 2000.0
+2024-11-04 20:28:23 | Deposit amount 1000.0 | Your Balance 3000.0
+2024-11-04 20:29:03 | Withdrawn amount $1000.0 | Your Balance $2000.0
+2024-11-08 15:06:17 | Deposit amount 1000.0 | Your Balance 3000.0
