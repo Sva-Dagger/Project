@@ -7,9 +7,11 @@ A functional Python-based ATM interface that allows users to perform standard ba
 ![ATM Demo](path/to/your/demo.gif)
 
 <!-- Option 2: If you have a video file, GitHub now supports drag-and-drop video -->
-<video src="https://github.com/Sva-Dagger/Project/blob/main/TASK-01%20ATM%20MACHINE/TASK-1%20ATM_Machine_Project.mp4" width="100%" controls>
-  ATM SIMULATOR
-</video>
+<div align="center">
+  <video src="https://github.com/Sva-Dagger/Project/blob/main/TASK-01%20ATM%20MACHINE/TASK-1%20ATM_Machine_Project.mp4" width="100%" height="100%" controls>
+    ATM SIMULATOR
+  </video>
+</div>
 
 ---
 
