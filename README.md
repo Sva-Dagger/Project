@@ -3,13 +3,10 @@
 A functional Python-based ATM interface that allows users to perform standard banking operations like balance inquiries, deposits, and withdrawals with secure PIN authentication.
 
 ## 📺 Project Demo
-<!-- Option 1: If you have a GIF -->
-![ATM Demo](path/to/your/demo.gif)
 
-<!-- Option 2: If you have a video file, GitHub now supports drag-and-drop video -->
 <div align="center">
-  <video src="https://github.com/Sva-Dagger/Project/raw/main/TASK-01%20ATM%20MACHINE/TASK-1%20ATM_Machine_Project.mp4" width="100%" height="100%" controls>
-    ATM SIMULATOR
+  <video src="https://github.com/Sva-Dagger/Project/raw/main/TASK-01%20ATM%20MACHINE/TASK-1%20ATM_Machine_Project.mp4" width="100%" height="auto" controls>
+    Your browser does not support the video tag.
   </video>
 </div>
 
@@ -29,4 +26,20 @@ A functional Python-based ATM interface that allows users to perform standard ba
 ## 🔧 Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/atm-machine-python.git](https://github.com/yourusername/atm-machine-python.git)
+   git clone https://github.com/Sva-Dagger/Project.git
+   cd Project
+   ```
+
+2. **Run the ATM Machine:**
+   ```bash
+   python TASK-01\ ATM\ MACHINE/atm_machine.py
+   ```
+
+## 📋 How to Use
+- Enter your PIN to log in
+- Select an operation (Balance, Withdrawal, Deposit)
+- Follow the on-screen prompts
+- Exit when done
+
+## 📝 License
+This project is open source and available under the MIT License.
