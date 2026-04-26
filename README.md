@@ -4,11 +4,7 @@ A functional Python-based ATM interface that allows users to perform standard ba
 
 ## 📺 Project Demo
 
-<div align="center">
-  <video src="https://github.com/Sva-Dagger/Project/raw/main/TASK-01%20ATM%20MACHINE/TASK-1%20ATM_Machine_Project.mp4" width="100%" height="auto" controls>
-    Your browser does not support the video tag.
-  </video>
-</div>
+![Billing Management System]()
 
 ---
 
