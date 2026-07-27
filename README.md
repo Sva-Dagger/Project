@@ -19,21 +19,14 @@ A modern **Full Stack Expense Tracker** built with **React.js, Node.js, Express.
 
 Login
 
-```md
+### Login
 ![Expense Tracker](https://drive.google.com/uc?export=view&id=1hYsubMyLKpmSGfREURdKTDDhYVHWlEwL)
-```
 
-SignUp
-
-```md
+### SignUP
 ![Expense Tracker](https://drive.google.com/uc?export=view&id=1HQtnYe5poMncQw22T97FRavIhFBDjXsy)
-```
 
-Admin
-
-```md
-![Expense Tracker](https://drive.google.com/uc?export=view&id=1u1dHe8cZEtsjl_iZydvPiOuAg3GtjiN)
-```
+### Admin
+![Expense Tracker](https://drive.google.com/uc?export=view&id=1hYsubMyLKpmSGfREURdKTDDhYVHWlEwL)
 
 ---
 
