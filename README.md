@@ -26,7 +26,7 @@ Login
 ![Expense Tracker](https://drive.google.com/uc?export=view&id=1HQtnYe5poMncQw22T97FRavIhFBDjXsy)
 
 ### Admin
-![Expense Tracker](https://drive.google.com/uc?export=view&id=1u1dHe8cZEtsjl_iZydvPiOuAg3GtjiN)
+![Expense Tracker](https://drive.google.com/uc?export=view&id=1u1dHe8cZEtsjl_iZydvPiOuAg3GtjiN-)
 
 ---
 
